@@ -1,0 +1,77 @@
+{
+    "image": "characters/optimized/godshag/texture",
+    "scale": 2.0,
+    "sing_duration": 4.0,
+    "healthicon": "godshaggy",
+    "position": [
+        0.0,
+        -700.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "Up",
+            "offsets": [
+                -3.0,
+                26.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "Left",
+            "offsets": [
+                1.0,
+                23.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "Right",
+            "offsets": [
+                -16.0,
+                -7.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "Down",
+            "offsets": [
+                4.0,
+                -21.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        24,
+        24,
+        24
+    ]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="le star.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="star empty0000" x="4" y="4" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star empty0001" x="4" y="4" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star empty0002" x="119" y="4" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star empty0003" x="119" y="4" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star full0000" x="231" y="4" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star full0001" x="231" y="4" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star full0002" x="346" y="4" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star full0003" x="346" y="4" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star half0000" x="4" y="111" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star half0001" x="4" y="111" width="111" height="103" frameX="0" frameY="0" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star half0002" x="119" y="111" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+	<SubTexture name="star half0003" x="119" y="111" width="108" height="103" frameX="-1" frameY="-1" frameWidth="111" frameHeight="104"/>
+</TextureAtlas>

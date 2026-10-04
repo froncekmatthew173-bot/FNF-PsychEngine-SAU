@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SNAKENOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snake0000" x="4" y="4" width="179" height="200" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0001" x="187" y="4" width="179" height="201" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0002" x="370" y="4" width="179" height="202" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0003" x="553" y="4" width="179" height="204" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0004" x="736" y="4" width="179" height="207" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0005" x="4" y="215" width="179" height="216"/>
+	<SubTexture name="snake0006" x="187" y="215" width="179" height="207" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0007" x="370" y="215" width="179" height="203" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0008" x="553" y="215" width="179" height="201" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+	<SubTexture name="snake0009" x="4" y="4" width="179" height="200" frameX="0" frameY="0" frameWidth="179" frameHeight="216"/>
+</TextureAtlas>

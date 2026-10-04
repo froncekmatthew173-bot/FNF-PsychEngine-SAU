@@ -1,0 +1,55 @@
+{
+    "image": "characters/boif",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "boif-dead",
+    "position": [
+        0.0,
+        350.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": true,
+    "animations": [
+        {
+            "anim": "firstDeath",
+            "name": "BF dies",
+            "offsets": [
+                37.0,
+                11.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "deathLoop",
+            "name": "BF Dead Loop",
+            "offsets": [
+                37.0,
+                5.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "deathConfirm",
+            "name": "BF Dead confirm",
+            "offsets": [
+                37.0,
+                69.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        49,
+        176,
+        209
+    ]
+}

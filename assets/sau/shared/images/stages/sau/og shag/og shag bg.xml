@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="og shag bg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backpillar0000" x="10" y="10" width="613" height="2180"/>
+	<SubTexture name="left fore0000" x="633" y="10" width="1132" height="874"/>
+	<SubTexture name="main0000" x="10" y="2200" width="7176" height="3401"/>
+	<SubTexture name="right fore0000" x="10" y="5611" width="1608" height="1838"/>
+</TextureAtlas>

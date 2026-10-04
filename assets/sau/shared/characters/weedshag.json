@@ -1,0 +1,77 @@
+{
+    "image": "characters/weedshag",
+    "scale": 0.8,
+    "sing_duration": 4.0,
+    "healthicon": "weedshag",
+    "position": [
+        -60.0,
+        -160.0
+    ],
+    "camera_position": [
+        0.0,
+        -120.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "weed idle",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "weed up",
+            "offsets": [
+                -35.0,
+                80.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "weed left",
+            "offsets": [
+                70.0,
+                71.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "weed right",
+            "offsets": [
+                -32.0,
+                8.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "weed down",
+            "offsets": [
+                -4.0,
+                40.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        80,
+        134,
+        60
+    ]
+}

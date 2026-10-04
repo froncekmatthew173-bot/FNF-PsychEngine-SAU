@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="le rat.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rat0000" x="10" y="10" width="122" height="67" frameX="-12" frameY="-27" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0001" x="10" y="10" width="122" height="67" frameX="-12" frameY="-27" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0002" x="10" y="87" width="114" height="51" frameX="-2" frameY="-7" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0003" x="10" y="87" width="114" height="51" frameX="-2" frameY="-7" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0004" x="134" y="87" width="107" height="50" frameX="-1" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0005" x="134" y="87" width="107" height="50" frameX="-1" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0006" x="10" y="148" width="108" height="49" frameX="0" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0007" x="10" y="148" width="108" height="49" frameX="0" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0008" x="10" y="148" width="108" height="49" frameX="0" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0009" x="10" y="148" width="108" height="49" frameX="0" frameY="-1" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0010" x="128" y="148" width="107" height="50" frameX="0" frameY="0" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0011" x="128" y="148" width="107" height="50" frameX="0" frameY="0" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0012" x="128" y="148" width="107" height="50" frameX="0" frameY="0" frameWidth="134" frameHeight="94"/>
+	<SubTexture name="rat0013" x="128" y="148" width="107" height="50" frameX="0" frameY="0" frameWidth="134" frameHeight="94"/>
+</TextureAtlas>

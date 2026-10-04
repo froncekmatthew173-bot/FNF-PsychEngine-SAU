@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.6.8 https://strawberrysage.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="saggy.png" width="3257" height="3399">
+  <SubTexture name="shaggy_down0000.png" x="1181" y="2322" width="563" height="424" rotated="true"  frameX="-1" frameY="-26" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0001.png" x="749" y="2225"  width="426" height="562" frameX="-3" frameY="-27" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0002.png" x="1974" y="1876"  width="426" height="575" frameX="-8" frameY="-14" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0003.png" x="1974" y="1876"  width="426" height="575" frameX="-8" frameY="-14" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0004.png" x="964" y="3"  width="420" height="584" frameX="-13" frameY="-6" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0005.png" x="964" y="3"  width="420" height="584" frameX="-13" frameY="-6" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0006.png" x="2045" y="1381" width="585" height="414" rotated="true"  frameX="-15" frameY="-5" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0007.png" x="2045" y="1381" width="585" height="414" rotated="true"  frameX="-15" frameY="-5" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0008.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0009.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0010.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0011.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0012.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0013.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0014.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0015.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0016.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0017.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0018.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0019.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0020.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0021.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0022.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0023.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0024.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0025.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_down0026.png" x="332" y="2212"  width="411" height="589" frameX="-15" frameY="-1" frameWidth="438" frameHeight="591"/>
+  <SubTexture name="shaggy_idle0000.png" x="2478" y="1801"  width="323" height="696" frameX="-1" frameY="-57" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0001.png" x="2478" y="1801"  width="323" height="696" frameX="-1" frameY="-57" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0002.png" x="1895" y="2785" width="699" height="319" rotated="true"  frameX="-6" frameY="-54" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0003.png" x="2608" y="3"  width="322" height="710" frameX="-8" frameY="-43" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0004.png" x="2608" y="3"  width="322" height="710" frameX="-8" frameY="-43" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0005.png" x="1750" y="2457" width="722" height="322" rotated="true"  frameX="-12" frameY="-30" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0006.png" x="1750" y="2457" width="722" height="322" rotated="true"  frameX="-12" frameY="-30" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0007.png" x="3" y="1887"  width="323" height="751" frameX="-16" frameY="-2" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0008.png" x="3" y="1887"  width="323" height="751" frameX="-16" frameY="-2" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0009.png" x="3" y="1887"  width="323" height="751" frameX="-16" frameY="-2" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0010.png" x="3" y="1887"  width="323" height="751" frameX="-16" frameY="-2" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0011.png" x="2276" y="619"  width="326" height="756" frameX="-18" frameY="-1" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0012.png" x="2276" y="619"  width="326" height="756" frameX="-18" frameY="-1" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0013.png" x="2276" y="619"  width="326" height="756" frameX="-18" frameY="-1" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle0014.png" x="2276" y="619"  width="326" height="756" frameX="-18" frameY="-1" frameWidth="354" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20000.png" x="2636" y="719"  width="323" height="696" frameX="-1" frameY="-58" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20001.png" x="2636" y="719"  width="323" height="696" frameX="-1" frameY="-58" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20002.png" x="2936" y="3"  width="310" height="699" frameX="-2" frameY="-56" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20003.png" x="1181" y="2785" width="708" height="315" rotated="true"  frameX="-4" frameY="-46" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20004.png" x="1181" y="2785" width="708" height="315" rotated="true"  frameX="-4" frameY="-46" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20005.png" x="3" y="3100" width="722" height="296" rotated="true"  frameX="-11" frameY="-33" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20006.png" x="3" y="3100" width="722" height="296" rotated="true"  frameX="-11" frameY="-33" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20007.png" x="2965" y="708"  width="289" height="748" frameX="-16" frameY="-8" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20008.png" x="2965" y="708"  width="289" height="748" frameX="-16" frameY="-8" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20009.png" x="2965" y="708"  width="289" height="748" frameX="-16" frameY="-8" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20010.png" x="2965" y="708"  width="289" height="748" frameX="-16" frameY="-8" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20011.png" x="2807" y="1462"  width="286" height="752" frameX="-20" frameY="-5" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20012.png" x="2807" y="1462"  width="286" height="752" frameX="-20" frameY="-5" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20013.png" x="2807" y="1462"  width="286" height="752" frameX="-20" frameY="-5" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_idle20014.png" x="2807" y="1462"  width="286" height="752" frameX="-20" frameY="-5" frameWidth="326" frameHeight="757"/>
+  <SubTexture name="shaggy_left0000.png" x="1824" y="3"  width="463" height="610" frameX="-0" frameY="-22" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0001.png" x="424" y="1598"  width="457" height="608" frameX="-8" frameY="-23" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0002.png" x="887" y="1598"  width="446" height="621" frameX="-18" frameY="-16" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0003.png" x="887" y="1598"  width="446" height="621" frameX="-18" frameY="-16" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0004.png" x="1339" y="1876" width="629" height="440" rotated="true"  frameX="-23" frameY="-3" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0005.png" x="1339" y="1876" width="629" height="440" rotated="true"  frameX="-23" frameY="-3" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0006.png" x="1406" y="1430" width="633" height="440" rotated="true"  frameX="-23" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0007.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0008.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0009.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0010.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0011.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0012.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0013.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0014.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0015.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0016.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0017.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0018.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0019.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0020.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0021.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0022.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0023.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0024.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0025.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0026.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_left0027.png" x="1831" y="619"  width="439" height="633" frameX="-24" frameY="-0" frameWidth="465" frameHeight="641"/>
+  <SubTexture name="shaggy_right0000.png" x="485" y="3"  width="473" height="698" frameX="-3" frameY="-15" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0001.png" x="3" y="3"  width="476" height="695" frameX="-1" frameY="-18" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0002.png" x="3" y="707" width="688" height="462" rotated="true"  frameX="-3" frameY="-26" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0003.png" x="3" y="707" width="688" height="462" rotated="true"  frameX="-3" frameY="-26" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0004.png" x="697" y="707" width="688" height="448" rotated="true"  frameX="-7" frameY="-25" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0005.png" x="697" y="707" width="688" height="448" rotated="true"  frameX="-7" frameY="-25" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0006.png" x="697" y="1161" width="703" height="431" rotated="true"  frameX="-8" frameY="-11" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0007.png" x="697" y="1161" width="703" height="431" rotated="true"  frameX="-8" frameY="-11" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0008.png" x="1391" y="3"  width="427" height="709" frameX="-13" frameY="-5" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0009.png" x="1391" y="3"  width="427" height="709" frameX="-13" frameY="-5" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0010.png" x="3" y="1175"  width="415" height="706" frameX="-18" frameY="-6" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0011.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0012.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0013.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0014.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0015.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0016.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0017.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0018.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0019.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0020.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0021.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0022.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0023.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0024.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0025.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0026.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0027.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0028.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0029.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_right0030.png" x="1406" y="718"  width="419" height="706" frameX="-13" frameY="-7" frameWidth="479" frameHeight="717"/>
+  <SubTexture name="shaggy_up0000.png" x="731" y="3106" width="774" height="275" rotated="true"  frameX="-9" frameY="-7" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0001.png" x="2288" y="3110" width="777" height="271" rotated="true"  frameX="-9" frameY="-6" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0002.png" x="1511" y="3110" width="771" height="274" rotated="true"  frameX="-9" frameY="-12" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0003.png" x="1511" y="3110" width="771" height="274" rotated="true"  frameX="-9" frameY="-12" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0004.png" x="3" y="2807" width="758" height="287" rotated="true"  frameX="-3" frameY="-25" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0005.png" x="3" y="2807" width="758" height="287" rotated="true"  frameX="-3" frameY="-25" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0006.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0007.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0008.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0009.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0010.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0011.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0012.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0013.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0014.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0015.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0016.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0017.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0018.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0019.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0020.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0021.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0022.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0023.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+  <SubTexture name="shaggy_up0024.png" x="2807" y="2220"  width="285" height="753" frameX="-11" frameY="-31" frameWidth="298" frameHeight="784"/>
+</TextureAtlas>

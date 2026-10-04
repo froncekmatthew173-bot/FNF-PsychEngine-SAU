@@ -1,0 +1,10 @@
+{
+  "engine": "generic",
+  "name": "psych-engine-sau",
+  "build": { "cmd": "lime build windows -Dfinal" },
+  "launch": { "cmd": "export\\release\\windows\\bin\\PsychEngine.exe", "args": ["--sau-test", "double-divinity", "canon"], "cwd": "export/release/windows/bin" },
+  "log": { "stdout": true, "stderr": true },
+  "ready": "Friday Night Funkin",
+  "window": "Friday Night Funkin",
+  "sourceRoots": ["source"]
+}

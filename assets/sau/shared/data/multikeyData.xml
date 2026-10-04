@@ -1,0 +1,224 @@
+<!DOCTYPE multikey-data>
+<keyData>
+	<!--1K-->
+	<keyGroup scale="0.7" gapWidth="160" xOffset="0">
+		<key singDir="2" splashID="4" strumStatic="arrowSPACE" strumConfirm="white confirm" strumPress="white press" note="white0" noteHold="white hold piece" noteHoldEnd="white hold end"/>
+	</keyGroup>
+	<!--2K-->
+	<keyGroup scale="0.7" gapWidth="160" xOffset="0">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+	</keyGroup>
+	<!--3K-->
+	<keyGroup scale="0.7" gapWidth="160" xOffset="0">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="2" splashID="4" strumStatic="arrowSPACE" strumConfirm="white confirm" strumPress="white press" note="white0" noteHold="white hold piece" noteHoldEnd="white hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+	</keyGroup>
+	<!--4K-->
+	<keyGroup scale="0.7" gapWidth="160" xOffset="0">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+	</keyGroup>
+	<!--5K-->
+	<keyGroup scale="0.65" gapWidth="145" xOffset="-15">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="4" splashID="4" strumStatic="arrowSPACE" strumConfirm="white confirm" strumPress="white press" note="white0" noteHold="white hold piece" noteHoldEnd="white hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+	</keyGroup>
+	<!--6K-->
+	<keyGroup scale="0.6" gapWidth="120" xOffset="-35">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+		<key singDir="5" splashID="5" strumStatic="arrowLEFT" strumConfirm="yellow confirm" strumPress="yellow press" note="yellow0" noteHold="yellow hold piece" noteHoldEnd="yellow hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="8" splashID="8" strumStatic="arrowRIGHT" strumConfirm="dark confirm" strumPress="dark press" note="dark0" noteHold="dark hold piece" noteHoldEnd="dark hold end"/>
+	</keyGroup>
+	<!--7K-->
+	<keyGroup scale="0.55" gapWidth="110" xOffset="-50">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+		<key singDir="4" splashID="4" strumStatic="arrowSPACE" strumConfirm="white confirm" strumPress="white press" note="white0" noteHold="white hold piece" noteHoldEnd="white hold end"/>
+		<key singDir="5" splashID="5" strumStatic="arrowLEFT" strumConfirm="yellow confirm" strumPress="yellow press" note="yellow0" noteHold="yellow hold piece" noteHoldEnd="yellow hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="8" splashID="8" strumStatic="arrowRIGHT" strumConfirm="dark confirm" strumPress="dark press" note="dark0" noteHold="dark hold piece" noteHoldEnd="dark hold end"/>
+	</keyGroup>
+	<!--8K-->
+	<keyGroup scale="0.5" gapWidth="100" xOffset="-60">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+		<key singDir="5" splashID="5" strumStatic="arrowLEFT" strumConfirm="yellow confirm" strumPress="yellow press" note="yellow0" noteHold="yellow hold piece" noteHoldEnd="yellow hold end"/>
+		<key singDir="6" splashID="6" strumStatic="arrowDOWN" strumConfirm="violet confirm" strumPress="violet press" note="violet0" noteHold="violet hold piece" noteHoldEnd="violet hold end"/>
+		<key singDir="7" splashID="7" strumStatic="arrowUP" strumConfirm="darkred confirm" strumPress="darkred press" note="darkred0" noteHold="darkred hold piece" noteHoldEnd="darkred hold end"/>
+		<key singDir="8" splashID="8" strumStatic="arrowRIGHT" strumConfirm="dark confirm" strumPress="dark press" note="dark0" noteHold="dark hold piece" noteHoldEnd="dark hold end"/>
+	</keyGroup>
+	<!--9K-->
+	<keyGroup scale="0.46" gapWidth="90" xOffset="-70">
+		<key singDir="0" splashID="0" strumStatic="arrowLEFT" strumConfirm="purple confirm" strumPress="purple press" note="purple0" noteHold="purple hold piece" noteHoldEnd="purple hold end"/>
+		<key singDir="1" splashID="1" strumStatic="arrowDOWN" strumConfirm="blue confirm" strumPress="blue press" note="blue0" noteHold="blue hold piece" noteHoldEnd="blue hold end"/>
+		<key singDir="2" splashID="2" strumStatic="arrowUP" strumConfirm="green confirm" strumPress="green press" note="green0" noteHold="green hold piece" noteHoldEnd="green hold end"/>
+		<key singDir="3" splashID="3" strumStatic="arrowRIGHT" strumConfirm="red confirm" strumPress="red press" note="red0" noteHold="red hold piece" noteHoldEnd="red hold end"/>
+		<key singDir="4" splashID="4" strumStatic="arrowSPACE" strumConfirm="white confirm" strumPress="white press" note="white0" noteHold="white hold piece" noteHoldEnd="white hold end"/>
+		<key singDir="5" splashID="5" strumStatic="arrowLEFT" strumConfirm="yellow confirm" strumPress="yellow press" note="yellow0" noteHold="yellow hold piece" noteHoldEnd="yellow hold end"/>
+		<key singDir="6" splashID="6" strumStatic="arrowDOWN" strumConfirm="violet confirm" strumPress="violet press" note="violet0" noteHold="violet hold piece" noteHoldEnd="violet hold end"/>
+		<key singDir="7" splashID="7" strumStatic="arrowUP" strumConfirm="darkred confirm" strumPress="darkred press" note="darkred0" noteHold="darkred hold piece" noteHoldEnd="darkred hold end"/>
+		<key singDir="8" splashID="8" strumStatic="arrowRIGHT" strumConfirm="dark confirm" strumPress="dark press" note="dark0" noteHold="dark hold piece" noteHoldEnd="dark hold end"/>
+	</keyGroup>
+</keyData>
+<defaultBinds>
+	<!--1K-->
+	<keyGroup name="ONE KEY">
+		<key bind="SPACE" bindP2="" name="SPACE"/>
+	</keyGroup>
+	<!--2K-->
+	<keyGroup name="TWO KEY">
+		<key bind="D" bindP2="LEFT" name="LEFT"/>
+		<key bind="K" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--3K-->
+	<keyGroup name="THREE KEY">
+		<key bind="D" bindP2="LEFT" name="LEFT"/>
+		<key bind="SPACE" bindP2="" name="SPACE"/>
+		<key bind="K" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--4K (ignored)-->
+	<keyGroup name="FOUR KEY">
+		<key bind="D" bindP2="LEFT" name="LEFT"/>
+		<key bind="F" bindP2="DOWN" name="DOWN"/>
+		<key bind="J" bindP2="UP" name="UP"/>
+		<key bind="K" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--5K-->
+	<keyGroup name="FIVE KEY">
+		<key bind="D" bindP2="LEFT" name="LEFT"/>
+		<key bind="F" bindP2="DOWN" name="DOWN"/>
+		<key bind="SPACE" bindP2="" name="SPACE"/>
+		<key bind="J" bindP2="UP" name="UP"/>
+		<key bind="K" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--6K-->
+	<keyGroup name="SIX KEY">
+		<key bind="S" bindP2="" name="LEFT"/>
+		<key bind="D" bindP2="" name="UP"/>
+		<key bind="F" bindP2="" name="RIGHT"/>
+		<key bind="J" bindP2="LEFT" name="LEFT"/>
+		<key bind="K" bindP2="DOWN" name="DOWN"/>
+		<key bind="L" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--7K-->
+	<keyGroup name="SEVEN KEY">
+		<key bind="S" bindP2="" name="LEFT"/>
+		<key bind="D" bindP2="" name="UP"/>
+		<key bind="F" bindP2="" name="RIGHT"/>
+		<key bind="SPACE" bindP2="" name="SPACE"/>
+		<key bind="J" bindP2="LEFT" name="LEFT"/>
+		<key bind="K" bindP2="DOWN" name="DOWN"/>
+		<key bind="L" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--8K-->
+	<keyGroup name="EIGHT KEY">
+		<key bind="A" bindP2="" name="LEFT"/>
+		<key bind="S" bindP2="" name="DOWN"/>
+		<key bind="D" bindP2="" name="UP"/>
+		<key bind="F" bindP2="" name="RIGHT"/>
+		<key bind="H" bindP2="LEFT" name="LEFT"/>
+		<key bind="J" bindP2="DOWN" name="DOWN"/>
+		<key bind="K" bindP2="UP" name="UP"/>
+		<key bind="L" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+	<!--9K-->
+	<keyGroup name="NINE KEY">
+		<key bind="A" bindP2="" name="LEFT"/>
+		<key bind="S" bindP2="" name="DOWN"/>
+		<key bind="D" bindP2="" name="UP"/>
+		<key bind="F" bindP2="" name="RIGHT"/>
+		<key bind="SPACE" bindP2="" name="SPACE"/>
+		<key bind="H" bindP2="LEFT" name="LEFT"/>
+		<key bind="J" bindP2="DOWN" name="DOWN"/>
+		<key bind="K" bindP2="UP" name="UP"/>
+		<key bind="L" bindP2="RIGHT" name="RIGHT"/>
+	</keyGroup>
+</defaultBinds>
+
+<mobileHitboxes>
+	<!--1K-->
+	<keyGroup name="ONE KEY">
+		<key xPercent="0" yPercent="0" widthPercent="1" heightPercent="1" color="0xcccccc"/>
+	</keyGroup>
+	<!--2K-->
+	<keyGroup name="TWO KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.5" heightPercent="1" color="0xC24B99"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.5" heightPercent="1" color="0xF9393F"/>
+	</keyGroup>
+	<!--3K-->
+	<keyGroup name="THREE KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.5" heightPercent="0.75" color="0xC24B99"/>
+		<key xPercent="0" yPercent="0.75" widthPercent="3" heightPercent="0.25" color="0xcccccc"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.5" heightPercent="0.75" color="0xF9393F"/>
+	</keyGroup>
+	<!--4K (ignored)-->
+	<keyGroup name="FOUR KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.25" heightPercent="1" color="0xC24B99"/>
+		<key xPercent="0.25" yPercent="0" widthPercent="0.25" heightPercent="1" color="0x00FFFF"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.25" heightPercent="1" color="0x12FA05"/>
+		<key xPercent="0.75" yPercent="0" widthPercent="0.25" heightPercent="1" color="0xF9393F"/>
+	</keyGroup>
+	<!--5K-->
+	<keyGroup name="FIVE KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.25" heightPercent="0.75" color="0xC24B99"/>
+		<key xPercent="0.25" yPercent="0" widthPercent="0.25" heightPercent="0.75" color="0x00FFFF"/>
+		<key xPercent="0" yPercent="0.75" widthPercent="1" heightPercent="0.25" color="0xcccccc"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.25" heightPercent="0.75" color="0x12FA05"/>
+		<key xPercent="0.75" yPercent="0" widthPercent="0.25" heightPercent="0.75" color="0xF9393F"/>
+	</keyGroup>
+	<!--6K-->
+	<keyGroup name="SIX KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0xC24B99"/>
+		<key xPercent="0.16666" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0x12FA05"/>
+		<key xPercent="0.33333" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0xF9393F"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0xf4f400"/>
+		<key xPercent="0.66666" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0x00FFFF"/>
+		<key xPercent="0.83333" yPercent="0" widthPercent="0.16666" heightPercent="1" color="0x0033ff"/>
+	</keyGroup>
+	<!--7K-->
+	<keyGroup name="SEVEN KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0xC24B99"/>
+		<key xPercent="0.16666" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0x12FA05"/>
+		<key xPercent="0.33333" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0xF9393F"/>
+		<key xPercent="0" yPercent="0.75" widthPercent="1.0" heightPercent="0.25" color="0xcccccc"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0xf4f400"/>
+		<key xPercent="0.66666" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0x00FFFF"/>
+		<key xPercent="0.83333" yPercent="0" widthPercent="0.16666" heightPercent="0.75" color="0x0033ff"/>
+	</keyGroup>
+	<!--8K-->
+	<keyGroup name="EIGHT KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.125" heightPercent="1" color="0xC24B99"/>
+		<key xPercent="0.125" yPercent="0" widthPercent="0.125" heightPercent="1" color="0x00FFFF"/>
+		<key xPercent="0.25" yPercent="0" widthPercent="0.125" heightPercent="1" color="0x12FA05"/>
+		<key xPercent="0.375" yPercent="0" widthPercent="0.125" heightPercent="1" color="0xF9393F"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.125" heightPercent="1" color="0xf4f400"/>
+		<key xPercent="0.625" yPercent="0" widthPercent="0.125" heightPercent="1" color="0x823cff"/>
+		<key xPercent="0.75" yPercent="0" widthPercent="0.125" heightPercent="1" color="0xe40000"/>
+		<key xPercent="0.875" yPercent="0" widthPercent="0.125" heightPercent="1" color="0x0033ff"/>
+	</keyGroup>
+	<!--9K-->
+	<keyGroup name="NINE KEY">
+		<key xPercent="0" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0xC24B99"/>
+		<key xPercent="0.125" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0x00FFFF"/>
+		<key xPercent="0.25" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0x12FA05"/>
+		<key xPercent="0.375" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0xF9393F"/>
+		<key xPercent="0" yPercent="0.75" widthPercent="1.0" heightPercent="0.25" color="0xcccccc"/>
+		<key xPercent="0.5" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0xf4f400"/>
+		<key xPercent="0.625" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0x823cff"/>
+		<key xPercent="0.75" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0xe40000"/>
+		<key xPercent="0.875" yPercent="0" widthPercent="0.125" heightPercent="0.75" color="0x0033ff"/>
+	</keyGroup>
+</mobileHitboxes>

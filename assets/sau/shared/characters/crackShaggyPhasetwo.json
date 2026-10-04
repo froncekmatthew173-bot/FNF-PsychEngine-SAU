@@ -1,0 +1,77 @@
+{
+    "image": "characters/crackShaggyPhasetwo",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "crackshaggyphase2",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "Up",
+            "offsets": [
+                -4.0,
+                47.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "Left",
+            "offsets": [
+                81.0,
+                8.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "Right",
+            "offsets": [
+                -25.0,
+                -11.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "Down",
+            "offsets": [
+                27.0,
+                -41.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        109,
+        140,
+        49
+    ]
+}

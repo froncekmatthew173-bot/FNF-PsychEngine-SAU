@@ -1,0 +1,77 @@
+{
+    "image": "characters/el_shagus",
+    "scale": 1.5,
+    "sing_duration": 4.0,
+    "healthicon": "pngmatt",
+    "position": [
+        0.0,
+        100.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "Up",
+            "offsets": [
+                25.0,
+                -15.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "Left",
+            "offsets": [
+                100.0,
+                -80.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "Right",
+            "offsets": [
+                65.0,
+                -70.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "Down",
+            "offsets": [
+                60.0,
+                -115.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        89,
+        255,
+        0
+    ]
+}

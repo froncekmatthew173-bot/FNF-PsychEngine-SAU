@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="4078" height="1619">
+	<SubTexture name="FAKER DOWN0000" x="2078" y="374" width="292" height="397.5" frameX="-3.5" frameY="-0" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0001" x="2" y="372.5" width="298" height="378.5" frameX="-0.5" frameY="-19" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0002" x="3638" y="2" width="299" height="375.5" frameX="-0" frameY="-22" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0003" x="302" y="373" width="295.5" height="380.5" frameX="-1" frameY="-17" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0004" x="1487" y="374" width="293.5" height="383" frameX="-2" frameY="-14.5" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0005" x="1782.5" y="374" width="293.5" height="383" frameX="-2" frameY="-14.5" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0006" x="599.5" y="374" width="294" height="382.5" frameX="-1.5" frameY="-15" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0007" x="895.5" y="374" width="294" height="382.5" frameX="-1.5" frameY="-15" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0008" x="895.5" y="374" width="294" height="382.5" frameX="-1.5" frameY="-15" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0009" x="895.5" y="374" width="294" height="382.5" frameX="-1.5" frameY="-15" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER DOWN0010" x="1191.5" y="374" width="293.5" height="382.5" frameX="-2" frameY="-15" frameWidth="299" frameHeight="398"/>
+	<SubTexture name="FAKER IDLE0000" x="3632.5" y="779.5" width="254" height="407" frameX="-1.5" frameY="-0" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0001" x="2" y="1153.5" width="253.5" height="407" frameX="-1.5" frameY="-0" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0002" x="3379" y="779.5" width="251.5" height="406.5" frameX="-1.5" frameY="-0.5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0003" x="2725.5" y="774.5" width="219.5" height="403" frameX="-0.5" frameY="-4" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0004" x="2245.5" y="774" width="217.5" height="402.5" frameX="-0.5" frameY="-4.5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0005" x="1151" y="758.5" width="218" height="402" frameX="-0" frameY="-5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0006" x="1371" y="759" width="218" height="402" frameX="-0" frameY="-5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0007" x="1591" y="759" width="217" height="402" frameX="-0.5" frameY="-5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0008" x="1810" y="759" width="217" height="402" frameX="-0.5" frameY="-5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0009" x="2029" y="773.5" width="214.5" height="402" frameX="-1" frameY="-5" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0010" x="2947" y="774.5" width="214" height="403" frameX="-1.5" frameY="-4" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0011" x="3163" y="775.5" width="214" height="406" frameX="-1.5" frameY="-1" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0012" x="257.5" y="1156.5" width="243.5" height="407" frameX="-1.5" frameY="-0" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER IDLE0013" x="503" y="1161" width="256.5" height="407" frameX="-1.5" frameY="-0" frameWidth="258" frameHeight="407"/>
+	<SubTexture name="FAKER LEFT0000" x="3322" y="2" width="314" height="371.5" frameX="-22.5" frameY="-0" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0001" x="338.5" y="2" width="331.5" height="369" frameX="-3.5" frameY="-2.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0002" x="2" y="2" width="334.5" height="368.5" frameX="-0" frameY="-3" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0003" x="672" y="2" width="330" height="370" frameX="-4.5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0004" x="2992.5" y="2" width="327.5" height="370.5" frameX="-7" frameY="-1" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0005" x="1004" y="2" width="329" height="370" frameX="-5.5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0006" x="1335" y="2" width="329.5" height="370" frameX="-5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0007" x="1666.5" y="2" width="329.5" height="370" frameX="-5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0008" x="1998" y="2" width="329.5" height="370" frameX="-5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0009" x="2329.5" y="2" width="329.5" height="370" frameX="-5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER LEFT0010" x="2661" y="2" width="329.5" height="370" frameX="-5" frameY="-1.5" frameWidth="336.5" frameHeight="371.5"/>
+	<SubTexture name="FAKER RIGHT0000" x="2465" y="774" width="258.5" height="402.5" frameX="-1" frameY="-0" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0001" x="864.5" y="758.5" width="284.5" height="401.5" frameX="-0.5" frameY="-1" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0002" x="571.5" y="758.5" width="291" height="400.5" frameX="-0" frameY="-2" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0003" x="287.5" y="755.5" width="282" height="399" frameX="-0.5" frameY="-3.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0004" x="2372" y="374" width="278" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0005" x="2652" y="374" width="281.5" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0006" x="2" y="753" width="283.5" height="398.5" frameX="-0.5" frameY="-4" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0007" x="2935.5" y="374.5" width="283.5" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0008" x="3221" y="375.5" width="283.5" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0009" x="3506.5" y="379.5" width="283.5" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER RIGHT0010" x="3792" y="379.5" width="283.5" height="398" frameX="-0.5" frameY="-4.5" frameWidth="291" frameHeight="402.5"/>
+	<SubTexture name="FAKER UP0000" x="761.5" y="1162" width="252" height="412" frameX="-3" frameY="-16.5" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0001" x="2987.5" y="1183.5" width="246" height="426" frameX="-0.5" frameY="-2.5" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0002" x="3235.5" y="1188" width="245" height="429" frameX="-0" frameY="-0" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0003" x="2741" y="1179.5" width="244.5" height="425.5" frameX="-0.5" frameY="-3" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0004" x="1015.5" y="1162.5" width="244" height="424" frameX="-1" frameY="-4.5" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0005" x="1261.5" y="1163" width="244.5" height="424" frameX="-0.5" frameY="-4.5" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0006" x="1508" y="1163" width="244.5" height="424.5" frameX="-0.5" frameY="-4" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0007" x="1754.5" y="1163" width="244.5" height="424.5" frameX="-0.5" frameY="-4" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0008" x="2001" y="1178.5" width="244.5" height="424.5" frameX="-0.5" frameY="-4" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0009" x="2247.5" y="1178.5" width="244.5" height="424.5" frameX="-0.5" frameY="-4" frameWidth="255" frameHeight="429"/>
+	<SubTexture name="FAKER UP0010" x="2494" y="1179.5" width="245" height="424.5" frameX="-0.5" frameY="-4" frameWidth="255" frameHeight="429"/>
+</TextureAtlas>

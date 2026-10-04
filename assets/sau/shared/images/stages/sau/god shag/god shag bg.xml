@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="god shag bg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rock 10000" x="10" y="10" width="154" height="299"/>
+	<SubTexture name="rock 20000" x="174" y="10" width="707" height="494"/>
+	<SubTexture name="rock 30000" x="891" y="10" width="212" height="157"/>
+	<SubTexture name="rock 3 bigger0000" x="1113" y="10" width="686" height="499"/>
+	<SubTexture name="rock 40000" x="1809" y="10" width="527" height="233"/>
+	<SubTexture name="rock 50000" x="2346" y="10" width="255" height="423"/>
+	<SubTexture name="rock platform0000" x="2611" y="10" width="895" height="858"/>
+	<SubTexture name="shag rock0000" x="10" y="878" width="1470" height="858"/>
+	<SubTexture name="space bg0000" x="10" y="1746" width="2888" height="1648"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sau doorways.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="door0000" x="4" y="4" width="826" height="895"/>
+	<SubTexture name="door-crack0000" x="834" y="4" width="826" height="895"/>
+	<SubTexture name="door-elshagus0000" x="1664" y="4" width="826" height="895"/>
+	<SubTexture name="door-faker0000" x="2494" y="4" width="826" height="895"/>
+	<SubTexture name="door-god0000" x="4" y="903" width="826" height="895"/>
+	<SubTexture name="door-png0000" x="834" y="903" width="826" height="895"/>
+	<SubTexture name="door-saggy0000" x="1664" y="903" width="826" height="895"/>
+	<SubTexture name="door-scoobcar0000" x="2494" y="903" width="826" height="895"/>
+	<SubTexture name="door-shag120000" x="4" y="1802" width="826" height="895"/>
+	<SubTexture name="door-snake0000" x="834" y="1802" width="826" height="895"/>
+	<SubTexture name="door-toge0000" x="1664" y="1802" width="826" height="895"/>
+	<SubTexture name="door-tractor0000" x="2494" y="1802" width="826" height="895"/>
+	<SubTexture name="door-vector0000" x="4" y="903" width="826" height="895"/>
+	<SubTexture name="door-yomama0000" x="4" y="2701" width="826" height="895"/>
+</TextureAtlas>

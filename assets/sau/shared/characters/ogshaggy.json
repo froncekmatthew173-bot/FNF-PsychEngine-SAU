@@ -1,0 +1,77 @@
+{
+    "image": "characters/ogshaggy",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "originshaggy",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "Up",
+            "offsets": [
+                -43.0,
+                53.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "Left",
+            "offsets": [
+                47.0,
+                4.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "Right",
+            "offsets": [
+                -68.0,
+                1.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "Down",
+            "offsets": [
+                -53.0,
+                -36.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        181,
+        0,
+        255
+    ]
+}

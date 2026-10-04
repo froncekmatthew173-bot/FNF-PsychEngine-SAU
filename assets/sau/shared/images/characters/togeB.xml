@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.6.8 https://strawberrysage.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="togeB.png" width="8148" height="2537">
+  <SubTexture name="DownB0000.png" x="6909" y="3"  width="497" height="576" frameX="-0" frameY="-16" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0001.png" x="7412" y="3"  width="470" height="587" frameX="-6" frameY="-6" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0002.png" x="470" y="530"  width="461" height="590" frameX="-8" frameY="-4" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0003.png" x="1372" y="570"  width="457" height="592" frameX="-9" frameY="-2" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0004.png" x="1835" y="571"  width="454" height="592" frameX="-10" frameY="-2" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0005.png" x="2753" y="571"  width="453" height="593" frameX="-10" frameY="-1" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0006.png" x="2295" y="571"  width="452" height="592" frameX="-10" frameY="-1" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0007.png" x="3212" y="572"  width="452" height="593" frameX="-10" frameY="-0" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0008.png" x="3670" y="572"  width="451" height="593" frameX="-11" frameY="-0" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="DownB0009.png" x="4127" y="573"  width="452" height="593" frameX="-10" frameY="-0" frameWidth="497" frameHeight="594"/>
+  <SubTexture name="IdleB0000.png" x="1365" y="1169"  width="469" height="618" frameX="-0" frameY="-0" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0001.png" x="3" y="1126"  width="469" height="616" frameX="-0" frameY="-2" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0002.png" x="6000" y="580"  width="469" height="612" frameX="-0" frameY="-6" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0003.png" x="5056" y="579"  width="465" height="604" frameX="-3" frameY="-15" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0004.png" x="4592" y="3"  width="454" height="567" frameX="-12" frameY="-50" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0005.png" x="1847" y="3"  width="452" height="562" frameX="-14" frameY="-56" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0006.png" x="2305" y="3"  width="450" height="562" frameX="-15" frameY="-58" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0007.png" x="2761" y="3"  width="451" height="562" frameX="-14" frameY="-58" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0008.png" x="3218" y="3"  width="451" height="563" frameX="-14" frameY="-57" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0009.png" x="4133" y="3"  width="453" height="564" frameX="-13" frameY="-56" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0010.png" x="5987" y="3"  width="455" height="571" frameX="-11" frameY="-49" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0011.png" x="4585" y="578"  width="465" height="599" frameX="-4" frameY="-16" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0012.png" x="5527" y="580"  width="467" height="608" frameX="-2" frameY="-7" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0013.png" x="6475" y="585"  width="468" height="615" frameX="-1" frameY="-2" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="IdleB0014.png" x="1365" y="1169"  width="469" height="618" frameX="-0" frameY="-0" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="LeftB0000.png" x="925" y="1158"  width="434" height="623" frameX="-0" frameY="-2" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0001.png" x="937" y="530"  width="429" height="622" frameX="-21" frameY="-3" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0002.png" x="6949" y="585"  width="435" height="621" frameX="-19" frameY="-4" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0003.png" x="478" y="1126"  width="441" height="621" frameX="-17" frameY="-4" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0004.png" x="2315" y="1170"  width="444" height="621" frameX="-16" frameY="-1" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0005.png" x="2765" y="1171"  width="447" height="621" frameX="-15" frameY="-1" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0006.png" x="3218" y="1171"  width="450" height="623" frameX="-14" frameY="-1" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0007.png" x="3674" y="1172"  width="451" height="623" frameX="-14" frameY="-1" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0008.png" x="4524" y="1183"  width="452" height="624" frameX="-13" frameY="-1" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="LeftB0009.png" x="4982" y="1189"  width="453" height="625" frameX="-13" frameY="-0" frameWidth="466" frameHeight="625"/>
+  <SubTexture name="Right0000.png" x="5835" y="1198"  width="356" height="628" frameX="-29" frameY="-3" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0001.png" x="6986" y="1212"  width="378" height="630" frameX="-11" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0002.png" x="7370" y="1217"  width="383" height="630" frameX="-7" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0003.png" x="7759" y="1217"  width="386" height="630" frameX="-4" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0004.png" x="4131" y="1172"  width="387" height="627" frameX="-3" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0005.png" x="5441" y="1194"  width="388" height="627" frameX="-2" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0006.png" x="6197" y="1206"  width="389" height="629" frameX="-2" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0007.png" x="6592" y="1212"  width="388" height="629" frameX="-2" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0008.png" x="3" y="1748"  width="391" height="630" frameX="-0" frameY="-1" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Right0009.png" x="400" y="1753"  width="393" height="631" frameX="-0" frameY="-0" frameWidth="393" frameHeight="631"/>
+  <SubTexture name="Sliggie Bubster0000.png" x="5608" y="1832"  width="403" height="702" frameX="-4" frameY="-0" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0001.png" x="5196" y="1827"  width="406" height="699" frameX="-4" frameY="-2" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0002.png" x="4776" y="1820"  width="414" height="691" frameX="-4" frameY="-8" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0003.png" x="1146" y="1793"  width="429" height="670" frameX="-6" frameY="-24" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0004.png" x="3" y="529"  width="461" height="589" frameX="-12" frameY="-82" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0005.png" x="5052" y="3"  width="456" height="569" frameX="-14" frameY="-96" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0006.png" x="3675" y="3"  width="452" height="563" frameX="-15" frameY="-101" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0007.png" x="3" y="3"  width="451" height="519" frameX="-14" frameY="-102" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="Sliggie Bubster0008.png" x="460" y="3"  width="451" height="520" frameX="-14" frameY="-101" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="Sliggie Bubster0009.png" x="917" y="3"  width="453" height="521" frameX="-13" frameY="-100" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="Sliggie Bubster0010.png" x="6448" y="3"  width="455" height="571" frameX="-11" frameY="-93" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0011.png" x="1376" y="3"  width="465" height="561" frameX="-4" frameY="-60" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="Sliggie Bubster0012.png" x="5514" y="3"  width="467" height="570" frameX="-2" frameY="-51" frameWidth="470" frameHeight="621"/>
+  <SubTexture name="Sliggie Bubster0013.png" x="7390" y="596"  width="467" height="615" frameX="-1" frameY="-46" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="Sliggie Bubster0014.png" x="1840" y="1169"  width="469" height="618" frameX="-0" frameY="-44" frameWidth="473" frameHeight="702"/>
+  <SubTexture name="UpB0000.png" x="4389" y="1813"  width="381" height="685" frameX="-0" frameY="-0" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0001.png" x="4025" y="1805"  width="358" height="680" frameX="-14" frameY="-6" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0002.png" x="3666" y="1801"  width="353" height="678" frameX="-15" frameY="-8" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0003.png" x="3314" y="1800"  width="346" height="676" frameX="-19" frameY="-10" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0004.png" x="2966" y="1800"  width="342" height="672" frameX="-21" frameY="-11" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0005.png" x="1928" y="1793"  width="339" height="671" frameX="-22" frameY="-12" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0006.png" x="2273" y="1797"  width="341" height="671" frameX="-19" frameY="-14" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0007.png" x="1581" y="1793"  width="341" height="670" frameX="-18" frameY="-15" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0008.png" x="2620" y="1798"  width="340" height="671" frameX="-19" frameY="-15" frameWidth="381" frameHeight="686"/>
+  <SubTexture name="UpB0009.png" x="799" y="1787"  width="341" height="668" frameX="-18" frameY="-17" frameWidth="381" frameHeight="686"/>
+</TextureAtlas>

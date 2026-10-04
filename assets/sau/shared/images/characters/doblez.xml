@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doblez.png">
+<SubTexture name="doblez idle0000" x="320" y="1541" width="326" height="701" frameX="0" frameY="-54" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0001" x="320" y="1541" width="326" height="701" frameX="0" frameY="-54" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0002" x="0" y="1541" width="320" height="702" frameX="-2" frameY="-53" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0003" x="2038" y="0" width="317" height="710" frameX="-3" frameY="-46" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0004" x="2038" y="0" width="317" height="710" frameX="-3" frameY="-46" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0005" x="1735" y="0" width="303" height="725" frameX="-10" frameY="-31" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0006" x="1735" y="0" width="303" height="725" frameX="-10" frameY="-31" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0007" x="1006" y="784" width="292" height="753" frameX="-16" frameY="-3" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0008" x="1006" y="784" width="292" height="753" frameX="-16" frameY="-3" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0009" x="1298" y="784" width="292" height="753" frameX="-16" frameY="-3" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0010" x="1298" y="784" width="292" height="753" frameX="-16" frameY="-3" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0011" x="1439" y="0" width="296" height="757" frameX="-19" frameY="0" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0012" x="324" y="784" width="310" height="756" frameX="-19" frameY="0" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0013" x="0" y="784" width="324" height="757" frameX="-19" frameY="0" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez idle0014" x="0" y="784" width="324" height="757" frameX="-19" frameY="0" frameWidth="343" frameHeight="757" />
+<SubTexture name="doblez up0000" x="0" y="0" width="355" height="784" frameX="-9" frameY="0" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0001" x="355" y="0" width="356" height="781" frameX="-9" frameY="-3" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0002" x="711" y="0" width="358" height="775" frameX="-9" frameY="-9" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0003" x="711" y="0" width="358" height="775" frameX="-9" frameY="-9" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0004" x="1069" y="0" width="370" height="761" frameX="-3" frameY="-22" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0005" x="1069" y="0" width="370" height="761" frameX="-3" frameY="-22" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0006" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0007" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0008" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0009" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0010" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0011" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0012" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0013" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0014" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0015" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0016" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0017" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0018" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0019" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0020" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0021" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0022" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0023" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+<SubTexture name="doblez up0024" x="634" y="784" width="372" height="756" frameX="0" frameY="-27" frameWidth="373" frameHeight="784" />
+</TextureAtlas>

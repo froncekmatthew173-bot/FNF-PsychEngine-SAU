@@ -1,0 +1,77 @@
+{
+    "image": "characters/him",
+    "scale": 0.35,
+    "sing_duration": 4.0,
+    "healthicon": "",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "him idle",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "him up",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "him left",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "him down",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "him right",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        89,
+        255,
+        0
+    ]
+}

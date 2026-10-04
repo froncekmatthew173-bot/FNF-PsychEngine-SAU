@@ -1,0 +1,77 @@
+{
+    "image": "characters/scoobcar",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "ScoobCarIcon",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "ScoobCar_Idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": true,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "ScoobCar_Up",
+            "offsets": [
+                -8.0,
+                67.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "ScoobCar_Left",
+            "offsets": [
+                -8.0,
+                39.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "ScoobCar_Right",
+            "offsets": [
+                -8.0,
+                -4.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "ScoobCar_Down",
+            "offsets": [
+                -3.0,
+                -61.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        68,
+        24,
+        2
+    ]
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="him.png"><SubTexture name="him idle0000" x="0" y="0" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him down0000" x="1004" y="0" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him down0001" x="2008" y="0" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him down0002" x="0" y="2004" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him left0000" x="1004" y="2004" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him left0001" x="2008" y="2004" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him left0002" x="0" y="4008" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him right0000" x="1004" y="4008" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him right0001" x="2008" y="4008" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him right0002" x="0" y="6012" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him up0000" x="1004" y="6012" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him up0001" x="2008" y="6012" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+<SubTexture name="him up0002" x="0" y="8016" width="1004" height="2004" frameX="0" frameY="0" frameWidth="1004" frameHeight="2004" />
+</TextureAtlas>

@@ -1,0 +1,77 @@
+{
+    "image": "characters/optimized/faker/texture",
+    "scale": 2.0,
+    "sing_duration": 4.0,
+    "healthicon": "fakerShaggy",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "FAKER IDLE",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "FAKER UP",
+            "offsets": [
+                31.0,
+                22.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "FAKER LEFT",
+            "offsets": [
+                114.0,
+                -36.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "FAKER RIGHT",
+            "offsets": [
+                -3.0,
+                -6.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "FAKER DOWN",
+            "offsets": [
+                12.0,
+                -10.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        43,
+        121,
+        3
+    ]
+}

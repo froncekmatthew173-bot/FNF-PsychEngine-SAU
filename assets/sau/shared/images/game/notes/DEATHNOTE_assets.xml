@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DEATHNOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="death hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="death hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="purple0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="purple hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="purple hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="red0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="red hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="blue0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="blue hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="green0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="green hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="white0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="white hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="white hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="yellow0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="yellow hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="yellow hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="violet0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="violet hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="violet hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="darkred0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="darkred hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="darkred hold piece0000" x="4" y="177" width="50" height="44"/>
+
+		<SubTexture name="dark0000" x="4" y="4" width="162" height="169"/>
+	<SubTexture name="dark hold end0000" x="170" y="4" width="50" height="64"/>
+	<SubTexture name="dark hold piece0000" x="4" y="177" width="50" height="44"/>
+</TextureAtlas>

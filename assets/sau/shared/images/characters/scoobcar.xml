@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.6.8 https://strawberrysage.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="scoobcar.png" width="7585" height="1492">
+  <SubTexture name="ScoobCar_Down0000.png" x="3" y="3"  width="1077" height="622" frameX="-0" frameY="-35" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0001.png" x="3" y="3"  width="1077" height="622" frameX="-0" frameY="-35" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0002.png" x="1086" y="3"  width="1077" height="657" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0003.png" x="1086" y="3"  width="1077" height="657" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0004.png" x="1086" y="3"  width="1077" height="657" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0005.png" x="1086" y="3"  width="1077" height="657" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Down0006.png" x="1086" y="3"  width="1077" height="657" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="658"/>
+  <SubTexture name="ScoobCar_Idle0000.png" x="2169" y="3"  width="1077" height="702" frameX="-0" frameY="-13" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0001.png" x="3252" y="3"  width="1077" height="706" frameX="-0" frameY="-9" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0002.png" x="2169" y="3"  width="1077" height="702" frameX="-0" frameY="-13" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0003.png" x="3252" y="3"  width="1077" height="706" frameX="-0" frameY="-9" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0004.png" x="2169" y="3"  width="1077" height="702" frameX="-0" frameY="-13" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0005.png" x="5418" y="3"  width="1077" height="715" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0006.png" x="4335" y="3"  width="1077" height="711" frameX="-0" frameY="-4" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0007.png" x="5418" y="3"  width="1077" height="715" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0008.png" x="4335" y="3"  width="1077" height="711" frameX="-0" frameY="-4" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Idle0009.png" x="5418" y="3"  width="1077" height="715" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Left0000.png" x="4431" y="724"  width="1077" height="758" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0001.png" x="4431" y="724"  width="1077" height="758" frameX="-0" frameY="-0" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0002.png" x="3348" y="720"  width="1077" height="743" frameX="-0" frameY="-14" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0003.png" x="3348" y="720"  width="1077" height="743" frameX="-0" frameY="-14" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0004.png" x="3348" y="720"  width="1077" height="743" frameX="-0" frameY="-14" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0005.png" x="3348" y="720"  width="1077" height="743" frameX="-0" frameY="-14" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Left0006.png" x="3348" y="720"  width="1077" height="743" frameX="-0" frameY="-14" frameWidth="1077" frameHeight="758"/>
+  <SubTexture name="ScoobCar_Right0000.png" x="2157" y="715"  width="1185" height="716" frameX="-1" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Right0001.png" x="2157" y="715"  width="1185" height="716" frameX="-1" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Right0002.png" x="6501" y="3"  width="1081" height="715" frameX="-0" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Right0003.png" x="6501" y="3"  width="1081" height="715" frameX="-0" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Right0004.png" x="6501" y="3"  width="1081" height="715" frameX="-0" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Right0005.png" x="6501" y="3"  width="1081" height="715" frameX="-0" frameY="-0" frameWidth="1186" frameHeight="716"/>
+  <SubTexture name="ScoobCar_Up0000.png" x="5514" y="724"  width="1062" height="765" frameX="-0" frameY="-0" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0001.png" x="1081" y="666"  width="1070" height="741" frameX="-0" frameY="-43" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0002.png" x="3" y="631"  width="1072" height="727" frameX="-0" frameY="-55" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0003.png" x="3" y="631"  width="1072" height="727" frameX="-0" frameY="-55" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0004.png" x="3" y="631"  width="1072" height="727" frameX="-0" frameY="-55" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0005.png" x="3" y="631"  width="1072" height="727" frameX="-0" frameY="-55" frameWidth="1073" frameHeight="784"/>
+  <SubTexture name="ScoobCar_Up0006.png" x="3" y="631"  width="1072" height="727" frameX="-0" frameY="-55" frameWidth="1073" frameHeight="784"/>
+</TextureAtlas>

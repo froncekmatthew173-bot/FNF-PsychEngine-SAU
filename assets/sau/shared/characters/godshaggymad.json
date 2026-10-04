@@ -1,0 +1,77 @@
+{
+    "image": "characters/Mad Godshaggy",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "godshaggy",
+    "position": [
+        -300.0,
+        -700.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": true,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "Up",
+            "offsets": [
+                542.0,
+                52.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "Left",
+            "offsets": [
+                -31.0,
+                42.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "Right",
+            "offsets": [
+                -83.0,
+                -9.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "Down",
+            "offsets": [
+                -53.0,
+                -41.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        24,
+        24,
+        24
+    ]
+}

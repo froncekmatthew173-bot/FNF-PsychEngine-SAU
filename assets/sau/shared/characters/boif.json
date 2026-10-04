@@ -1,0 +1,144 @@
+{
+    "image": "characters/boif",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "boif",
+    "position": [
+        0.0,
+        350.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": true,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "BF idle dance",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "BF NOTE UP0",
+            "offsets": [
+                -49.0,
+                12.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "BF NOTE LEFT0",
+            "offsets": [
+                -28.0,
+                -7.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "BF NOTE RIGHT0",
+            "offsets": [
+                -33.0,
+                -6.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "BF NOTE DOWN0",
+            "offsets": [
+                -50.0,
+                -70.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUPmiss",
+            "name": "BF NOTE UP MISS",
+            "offsets": [
+                -29.0,
+                27.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFTmiss",
+            "name": "BF NOTE LEFT MISS",
+            "offsets": [
+                -30.0,
+                21.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHTmiss",
+            "name": "BF NOTE RIGHT MISS",
+            "offsets": [
+                12.0,
+                24.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWNmiss",
+            "name": "BF NOTE DOWN MISS",
+            "offsets": [
+                -11.0,
+                -19.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "hey",
+            "name": "BF HEY",
+            "offsets": [
+                7.0,
+                4.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "scared",
+            "name": "BF idle shaking",
+            "offsets": [
+                -4.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": true,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        49,
+        176,
+        209
+    ],
+    "gameOverChar": "boif-dead"
+}

@@ -1,0 +1,96 @@
+{
+    "image": "characters/togeA",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "togeBros",
+    "position": [
+        0.0,
+        100.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "IdleA",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "UpA",
+            "offsets": [
+                50.0,
+                60.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "LeftA",
+            "offsets": [
+                147.0,
+                39.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "RightA",
+            "offsets": [
+                32.0,
+                41.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "anim": "singDOWN",
+            "name": "DownA",
+            "offsets": [
+                107.0,
+                -31.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        89,
+        255,
+        0
+    ]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-godshaggyicons.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon-godshaggy0000" x="0" y="0" width="127" height="151"/>
+	<SubTexture name="icon-godshaggy0001" x="0" y="0" width="127" height="151"/>
+	<SubTexture name="icon-godshaggy0002" x="127" y="0" width="126" height="150" frameX="0" frameY="0" frameWidth="127" frameHeight="151"/>
+	<SubTexture name="icon-godshaggy0003" x="127" y="0" width="126" height="150" frameX="0" frameY="0" frameWidth="127" frameHeight="151"/>
+	<SubTexture name="icon-godshaggy0004" x="253" y="0" width="127" height="151"/>
+	<SubTexture name="icon-godshaggy0005" x="253" y="0" width="127" height="151"/>
+	<SubTexture name="icon-godshaggyLosing0000" x="0" y="151" width="150" height="166" frameX="-32" frameY="-7" frameWidth="186" frameHeight="177"/>
+	<SubTexture name="icon-godshaggyLosing0001" x="0" y="151" width="150" height="166" frameX="-32" frameY="-7" frameWidth="186" frameHeight="177"/>
+	<SubTexture name="icon-godshaggyLosing0002" x="150" y="151" width="165" height="175" frameX="-21" frameY="0" frameWidth="186" frameHeight="177"/>
+	<SubTexture name="icon-godshaggyLosing0003" x="150" y="151" width="165" height="175" frameX="-21" frameY="0" frameWidth="186" frameHeight="177"/>
+	<SubTexture name="icon-godshaggyLosing0004" x="315" y="151" width="186" height="164" frameX="0" frameY="-13" frameWidth="186" frameHeight="177"/>
+	<SubTexture name="icon-godshaggyLosing0005" x="315" y="151" width="186" height="164" frameX="0" frameY="-13" frameWidth="186" frameHeight="177"/>
+</TextureAtlas>

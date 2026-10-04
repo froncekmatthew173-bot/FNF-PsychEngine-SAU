@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faker_shag_bg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Faker Ground0000" x="4" y="4" width="4917" height="1405"/>
+	<SubTexture name="Faker Sky0000" x="4" y="1413" width="5607" height="2768"/>
+	<SubTexture name="Fence0000" x="4" y="4185" width="4091" height="646"/>
+</TextureAtlas>

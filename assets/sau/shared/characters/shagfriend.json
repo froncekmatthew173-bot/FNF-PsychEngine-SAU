@@ -1,0 +1,77 @@
+{
+    "image": "characters/notboyfriend",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "bf",
+    "position": [
+        0.0,
+        350.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": true,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "BF idle dance",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "BF NOTE UP0",
+            "offsets": [
+                -49.0,
+                17.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "BF NOTE LEFT0",
+            "offsets": [
+                0.0,
+                -7.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "BF NOTE RIGHT0",
+            "offsets": [
+                -48.0,
+                -6.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "BF NOTE DOWN0",
+            "offsets": [
+                -10.0,
+                -50.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        49,
+        176,
+        209
+    ]
+}

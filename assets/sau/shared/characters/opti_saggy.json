@@ -1,0 +1,156 @@
+{
+    "image": "characters/optimized/saggy/saggy",
+    "scale": 2.0,
+    "sing_duration": 4.0,
+    "healthicon": "saggy",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "shaggy_idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "shaggy_up",
+            "offsets": [
+                -8.0,
+                12.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "shaggy_left",
+            "offsets": [
+                87.0,
+                -61.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "shaggy_right",
+            "offsets": [
+                -4.0,
+                -24.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "shaggy_down",
+            "offsets": [
+                -8.0,
+                -90.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "idle-alt",
+            "name": "saggy_super_idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": true,
+            "indices": []
+        },
+        {
+            "anim": "singUP-alt",
+            "name": "saggy_sup",
+            "offsets": [
+                -29.0,
+                8.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "anim": "singLEFT-alt",
+            "name": "saggy_sleft",
+            "offsets": [
+                55.0,
+                -71.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT-alt",
+            "name": "saggy_sright",
+            "offsets": [
+                -36.0,
+                -23.5
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN-alt",
+            "name": "saggy_sdown",
+            "offsets": [
+                -33.5,
+                -92.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        0,
+        255,
+        0
+    ]
+}

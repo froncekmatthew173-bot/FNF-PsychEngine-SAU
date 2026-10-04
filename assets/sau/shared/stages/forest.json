@@ -1,0 +1,152 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "",
+	"boyfriend": [
+		650,
+		200
+	],
+	"objects": [
+		{
+			"x": -1000,
+			"y": -700,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/sau/yomama/bg",
+			"flipX": false,
+			"filters": 15,
+			"color": "#FFFFFF",
+			"angle": 0,
+			"name": "bg",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.01,
+				0.01
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 250,
+			"y": 0,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/sau/yomama/castle",
+			"flipX": false,
+			"filters": 15,
+			"color": "#FFFFFF",
+			"angle": 0,
+			"name": "castle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.1,
+				0.1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1500,
+			"y": 400,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/sau/yomama/groundback",
+			"flipX": false,
+			"filters": 15,
+			"color": "#FFFFFF",
+			"angle": 0,
+			"name": "groundback",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.75,
+				0.75
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1500,
+			"y": 650,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/sau/yomama/groundfront",
+			"flipX": false,
+			"filters": 15,
+			"color": "#FFFFFF",
+			"angle": 0,
+			"name": "groundfront",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1600,
+			"y": -470,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/sau/yomama/bgstuff",
+			"flipX": false,
+			"filters": 15,
+			"color": "#FFFFFF",
+			"angle": 0,
+			"name": "bgstuff",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.65,
+	"opponent": [
+		-650,
+		200
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

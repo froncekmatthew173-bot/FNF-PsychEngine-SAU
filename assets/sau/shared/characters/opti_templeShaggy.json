@@ -1,0 +1,132 @@
+{
+    "image": "characters/optimized/snake/texture",
+    "scale": 2.0,
+    "sing_duration": 4.0,
+    "healthicon": "templeShaggy",
+    "position": [
+        0.0,
+        100.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "Idle0",
+            "offsets": [
+                0.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "U0",
+            "offsets": [
+                -6.0,
+                7.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "L0",
+            "offsets": [
+                -1.0,
+                -3.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "R0",
+            "offsets": [
+                -11.0,
+                4.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "D0",
+            "offsets": [
+                -17.0,
+                -27.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "idle-alt",
+            "name": "Idle2",
+            "offsets": [
+                -8.0,
+                3.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP-alt",
+            "name": "U2",
+            "offsets": [
+                -2.0,
+                25.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT-alt",
+            "name": "L2",
+            "offsets": [
+                64.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT-alt",
+            "name": "R2",
+            "offsets": [
+                -5.0,
+                -14.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN-alt",
+            "name": "D2",
+            "offsets": [
+                -20.0,
+                -26.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        162,
+        6,
+        6
+    ]
+}

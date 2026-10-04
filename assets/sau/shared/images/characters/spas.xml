@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.6.8 https://strawberrysage.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="spas.png" width="8192" height="6728">
+  <SubTexture name="Down0000.png" x="3" y="3"  width="482" height="526" frameX="-0" frameY="-97" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0001.png" x="3" y="3"  width="482" height="526" frameX="-0" frameY="-97" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0002.png" x="491" y="3"  width="491" height="595" frameX="-7" frameY="-28" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0003.png" x="491" y="3"  width="491" height="595" frameX="-7" frameY="-28" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0004.png" x="988" y="3"  width="487" height="610" frameX="-14" frameY="-13" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0005.png" x="988" y="3"  width="487" height="610" frameX="-14" frameY="-13" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0006.png" x="1481" y="3"  width="487" height="621" frameX="-16" frameY="-1" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0007.png" x="1481" y="3"  width="487" height="621" frameX="-16" frameY="-1" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0008.png" x="1974" y="3"  width="487" height="622" frameX="-16" frameY="-0" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0009.png" x="1974" y="3"  width="487" height="622" frameX="-16" frameY="-0" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0010.png" x="1974" y="3"  width="487" height="622" frameX="-16" frameY="-0" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Down0011.png" x="1974" y="3"  width="487" height="622" frameX="-16" frameY="-0" frameWidth="503" frameHeight="623"/>
+  <SubTexture name="Expsassed 120000.png" x="5563" y="5848"  width="656" height="877" frameX="-0" frameY="-0" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120001.png" x="4993" y="5837"  width="564" height="823" frameX="-49" frameY="-32" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120002.png" x="4460" y="5831"  width="527" height="800" frameX="-70" frameY="-45" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120003.png" x="399" y="5714"  width="500" height="783" frameX="-85" frameY="-55" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120004.png" x="2250" y="5025"  width="496" height="771" frameX="-97" frameY="-62" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120005.png" x="1748" y="5018"  width="496" height="760" frameX="-108" frameY="-68" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120006.png" x="464" y="4958"  width="496" height="750" frameX="-117" frameY="-74" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120007.png" x="3202" y="3542"  width="496" height="743" frameX="-124" frameY="-78" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120008.png" x="7368" y="2835"  width="496" height="736" frameX="-131" frameY="-82" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120009.png" x="2455" y="2802"  width="495" height="730" frameX="-137" frameY="-85" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120010.png" x="1954" y="2778"  width="495" height="725" frameX="-141" frameY="-88" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120011.png" x="504" y="2739"  width="495" height="721" frameX="-146" frameY="-90" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120012.png" x="3454" y="2082"  width="495" height="717" frameX="-149" frameY="-92" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120013.png" x="7501" y="1390"  width="494" height="714" frameX="-152" frameY="-94" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120014.png" x="5975" y="1387"  width="494" height="712" frameX="-154" frameY="-95" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120015.png" x="3468" y="1366"  width="495" height="710" frameX="-155" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120016.png" x="3969" y="1382"  width="494" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120017.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120018.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120019.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120020.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120021.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120022.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120023.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Expsassed 120024.png" x="4469" y="1382"  width="495" height="710" frameX="-156" frameY="-96" frameWidth="656" frameHeight="877"/>
+  <SubTexture name="Full Attack0000.png" x="4970" y="1385"  width="496" height="710" frameX="-80" frameY="-65" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Full Attack0001.png" x="4970" y="1385"  width="496" height="710" frameX="-80" frameY="-65" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Full Attack0002.png" x="3" y="535"  width="462" height="708" frameX="-81" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0003.png" x="3" y="535"  width="462" height="708" frameX="-81" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0004.png" x="7223" y="676"  width="464" height="708" frameX="-79" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0005.png" x="3" y="1249"  width="446" height="713" frameX="-97" frameY="-69" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0006.png" x="905" y="5735"  width="382" height="784" frameX="-88" frameY="-0" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0007.png" x="905" y="5735"  width="382" height="784" frameX="-88" frameY="-0" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0008.png" x="4334" y="5047"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0009.png" x="4334" y="5047"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0010.png" x="4334" y="5047"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0011.png" x="4730" y="5050"  width="390" height="775" frameX="-87" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0012.png" x="4730" y="5050"  width="390" height="775" frameX="-87" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0013.png" x="966" y="4958"  width="385" height="771" frameX="-88" frameY="-13" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0014.png" x="966" y="4958"  width="385" height="771" frameX="-88" frameY="-13" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0015.png" x="2752" y="5042"  width="389" height="774" frameX="-87" frameY="-10" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0016.png" x="2752" y="5042"  width="389" height="774" frameX="-87" frameY="-10" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0017.png" x="5126" y="5056"  width="390" height="775" frameX="-87" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0018.png" x="5522" y="5056"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0019.png" x="5918" y="5067"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0020.png" x="5918" y="5067"  width="390" height="775" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0021.png" x="3147" y="5042"  width="390" height="774" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0022.png" x="3147" y="5042"  width="390" height="774" frameX="-88" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0023.png" x="3" y="1968"  width="446" height="724" frameX="-97" frameY="-59" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0024.png" x="3" y="1968"  width="446" height="724" frameX="-97" frameY="-59" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0025.png" x="6431" y="2106"  width="455" height="719" frameX="-88" frameY="-63" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0026.png" x="6431" y="2106"  width="455" height="719" frameX="-88" frameY="-63" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0027.png" x="2986" y="2081"  width="462" height="717" frameX="-81" frameY="-65" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0028.png" x="2986" y="2081"  width="462" height="717" frameX="-81" frameY="-65" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0029.png" x="4456" y="2098"  width="463" height="718" frameX="-80" frameY="-65" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0030.png" x="4456" y="2098"  width="463" height="718" frameX="-80" frameY="-65" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Full Attack0031.png" x="4970" y="1385"  width="496" height="710" frameX="-80" frameY="-65" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Full Attack0032.png" x="4970" y="1385"  width="496" height="710" frameX="-80" frameY="-65" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Full Attack0033.png" x="6892" y="2109"  width="496" height="719" frameX="-80" frameY="-65" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0034.png" x="6892" y="2109"  width="496" height="719" frameX="-80" frameY="-65" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0035.png" x="455" y="2007"  width="494" height="715" frameX="-86" frameY="-69" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0036.png" x="955" y="2018"  width="494" height="715" frameX="-86" frameY="-69" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0037.png" x="7693" y="676"  width="496" height="708" frameX="-88" frameY="-76" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0038.png" x="455" y="1293"  width="495" height="708" frameX="-88" frameY="-76" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0039.png" x="5054" y="3"  width="519" height="667" frameX="-80" frameY="-117" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0040.png" x="5579" y="3"  width="519" height="667" frameX="-80" frameY="-117" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0041.png" x="2999" y="3"  width="508" height="664" frameX="-84" frameY="-120" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0042.png" x="3513" y="3"  width="507" height="664" frameX="-84" frameY="-120" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0043.png" x="4002" y="673"  width="496" height="703" frameX="-88" frameY="-81" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0044.png" x="4504" y="673"  width="496" height="703" frameX="-88" frameY="-81" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0045.png" x="6282" y="4315"  width="464" height="746" frameX="-99" frameY="-38" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0046.png" x="6752" y="4315"  width="464" height="746" frameX="-99" frameY="-38" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0047.png" x="7222" y="4327"  width="460" height="746" frameX="-101" frameY="-38" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0048.png" x="7688" y="4327"  width="460" height="746" frameX="-101" frameY="-38" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0049.png" x="2040" y="650"  width="484" height="687" frameX="-92" frameY="-97" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0050.png" x="2530" y="673"  width="484" height="687" frameX="-92" frameY="-97" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0051.png" x="6104" y="3"  width="497" height="667" frameX="-85" frameY="-117" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0052.png" x="6607" y="3"  width="497" height="667" frameX="-85" frameY="-117" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0053.png" x="3270" y="5822"  width="589" height="776" frameX="-0" frameY="-8" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0054.png" x="3865" y="5828"  width="589" height="776" frameX="-0" frameY="-8" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0055.png" x="4283" y="4299"  width="758" height="742" frameX="-58" frameY="-42" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0056.png" x="5518" y="4308"  width="758" height="742" frameX="-58" frameY="-42" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0057.png" x="6614" y="3577"  width="899" height="732" frameX="-64" frameY="-52" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0058.png" x="3" y="4207"  width="899" height="732" frameX="-64" frameY="-52" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0059.png" x="2956" y="2805"  width="954" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0060.png" x="4916" y="2825"  width="953" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0061.png" x="6375" y="2834"  width="987" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0062.png" x="6375" y="2834"  width="987" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0063.png" x="3916" y="2821"  width="494" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0064.png" x="3916" y="2821"  width="494" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Full Attack0065.png" x="3916" y="2821"  width="494" height="731" frameX="-64" frameY="-53" frameWidth="1051" frameHeight="784"/>
+  <SubTexture name="Idle0000.png" x="2467" y="3"  width="526" height="641" frameX="-8" frameY="-78" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0001.png" x="2467" y="3"  width="526" height="641" frameX="-8" frameY="-78" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0002.png" x="471" y="619"  width="513" height="668" frameX="-10" frameY="-51" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0003.png" x="471" y="619"  width="513" height="668" frameX="-10" frameY="-51" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0004.png" x="5472" y="1385"  width="497" height="710" frameX="-2" frameY="-10" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0005.png" x="5472" y="1385"  width="497" height="710" frameX="-2" frameY="-10" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0006.png" x="4925" y="2101"  width="496" height="718" frameX="-1" frameY="-2" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0007.png" x="4925" y="2101"  width="496" height="718" frameX="-1" frameY="-2" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0008.png" x="3" y="2728"  width="495" height="720" frameX="-0" frameY="-0" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0009.png" x="3" y="2728"  width="495" height="720" frameX="-0" frameY="-0" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0010.png" x="3" y="2728"  width="495" height="720" frameX="-0" frameY="-0" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Idle0011.png" x="3" y="2728"  width="495" height="720" frameX="-0" frameY="-0" frameWidth="534" frameHeight="720"/>
+  <SubTexture name="Left0000.png" x="1376" y="3486"  width="459" height="738" frameX="-0" frameY="-2" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0001.png" x="1376" y="3486"  width="459" height="738" frameX="-0" frameY="-2" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0002.png" x="3" y="3454"  width="463" height="736" frameX="-42" frameY="-4" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0003.png" x="3" y="3454"  width="463" height="736" frameX="-42" frameY="-4" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0004.png" x="1493" y="2740"  width="455" height="740" frameX="-58" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0005.png" x="1493" y="2740"  width="455" height="740" frameX="-58" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0006.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0007.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0008.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0009.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0010.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Left0011.png" x="1841" y="3509"  width="451" height="740" frameX="-68" frameY="-0" frameWidth="519" frameHeight="740"/>
+  <SubTexture name="Reload0000.png" x="2966" y="1366"  width="496" height="709" frameX="-35" frameY="-66" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Reload0001.png" x="2966" y="1366"  width="496" height="709" frameX="-35" frameY="-66" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Reload0002.png" x="956" y="1304"  width="497" height="708" frameX="-36" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0003.png" x="956" y="1304"  width="497" height="708" frameX="-36" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0004.png" x="1459" y="1305"  width="497" height="708" frameX="-34" frameY="-76" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0005.png" x="6475" y="1387"  width="491" height="713" frameX="-52" frameY="-70" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0006.png" x="1293" y="5758"  width="382" height="784" frameX="-43" frameY="-0" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0007.png" x="1293" y="5758"  width="382" height="784" frameX="-43" frameY="-0" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0008.png" x="6314" y="5067"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0009.png" x="6314" y="5067"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0010.png" x="6314" y="5067"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0011.png" x="6710" y="5067"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0012.png" x="6710" y="5067"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0013.png" x="1357" y="4981"  width="385" height="771" frameX="-44" frameY="-13" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0014.png" x="1357" y="4981"  width="385" height="771" frameX="-44" frameY="-13" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0015.png" x="3543" y="5042"  width="389" height="774" frameX="-43" frameY="-10" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0016.png" x="3543" y="5042"  width="389" height="774" frameX="-43" frameY="-10" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0017.png" x="7106" y="5079"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0018.png" x="7502" y="5079"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0019.png" x="3" y="5700"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0020.png" x="3" y="5700"  width="390" height="775" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0021.png" x="3938" y="5047"  width="390" height="774" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0022.png" x="3938" y="5047"  width="390" height="774" frameX="-43" frameY="-9" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0023.png" x="1005" y="2740"  width="482" height="724" frameX="-52" frameY="-59" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0024.png" x="1005" y="2740"  width="482" height="724" frameX="-52" frameY="-59" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0025.png" x="7394" y="2110"  width="490" height="719" frameX="-44" frameY="-64" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0026.png" x="7394" y="2110"  width="490" height="719" frameX="-44" frameY="-64" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0027.png" x="3955" y="2098"  width="495" height="717" frameX="-36" frameY="-66" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0028.png" x="3955" y="2098"  width="495" height="717" frameX="-36" frameY="-66" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0029.png" x="5427" y="2101"  width="496" height="718" frameX="-35" frameY="-66" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Reload0030.png" x="5427" y="2101"  width="496" height="718" frameX="-35" frameY="-66" frameWidth="543" frameHeight="784"/>
+  <SubTexture name="Right0000.png" x="6010" y="676"  width="641" height="705" frameX="-11" frameY="-10" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0001.png" x="6010" y="676"  width="641" height="705" frameX="-11" frameY="-10" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0002.png" x="6657" y="676"  width="560" height="705" frameX="-4" frameY="-10" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0003.png" x="6657" y="676"  width="560" height="705" frameX="-4" frameY="-10" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0004.png" x="2455" y="2081"  width="525" height="715" frameX="-1" frameY="-0" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0005.png" x="2455" y="2081"  width="525" height="715" frameX="-1" frameY="-0" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0006.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0007.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0008.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0009.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0010.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Right0011.png" x="6972" y="1390"  width="523" height="713" frameX="-0" frameY="-2" frameWidth="652" frameHeight="715"/>
+  <SubTexture name="Shoot0000.png" x="5929" y="2105"  width="496" height="718" frameX="-79" frameY="-57" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0001.png" x="5929" y="2105"  width="496" height="718" frameX="-79" frameY="-57" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0002.png" x="1455" y="2019"  width="494" height="715" frameX="-85" frameY="-60" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0003.png" x="1955" y="2057"  width="494" height="715" frameX="-85" frameY="-60" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0004.png" x="1962" y="1343"  width="496" height="708" frameX="-87" frameY="-67" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0005.png" x="2464" y="1366"  width="496" height="708" frameX="-87" frameY="-67" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0006.png" x="990" y="630"  width="519" height="668" frameX="-79" frameY="-107" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0007.png" x="1515" y="631"  width="519" height="668" frameX="-79" frameY="-107" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0008.png" x="4026" y="3"  width="508" height="664" frameX="-83" frameY="-111" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0009.png" x="4540" y="3"  width="508" height="664" frameX="-83" frameY="-111" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0010.png" x="5006" y="676"  width="496" height="703" frameX="-87" frameY="-72" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0011.png" x="5508" y="676"  width="496" height="703" frameX="-87" frameY="-72" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0012.png" x="3049" y="4291"  width="465" height="745" frameX="-98" frameY="-30" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0013.png" x="5047" y="4299"  width="465" height="745" frameX="-98" frameY="-30" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0014.png" x="908" y="4207"  width="460" height="745" frameX="-100" frameY="-29" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0015.png" x="1374" y="4230"  width="460" height="745" frameX="-100" frameY="-29" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0016.png" x="3020" y="673"  width="485" height="687" frameX="-91" frameY="-88" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0017.png" x="3511" y="673"  width="485" height="687" frameX="-91" frameY="-88" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0018.png" x="7110" y="3"  width="496" height="667" frameX="-85" frameY="-108" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0019.png" x="7612" y="3"  width="496" height="667" frameX="-85" frameY="-108" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0020.png" x="1681" y="5802"  width="588" height="775" frameX="-0" frameY="-0" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0021.png" x="2676" y="5822"  width="588" height="775" frameX="-0" frameY="-0" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0022.png" x="2286" y="4279"  width="757" height="740" frameX="-58" frameY="-34" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0023.png" x="3520" y="4296"  width="757" height="740" frameX="-58" frameY="-34" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0024.png" x="472" y="3470"  width="898" height="731" frameX="-65" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0025.png" x="2298" y="3542"  width="898" height="731" frameX="-65" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0026.png" x="3704" y="3559"  width="953" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0027.png" x="4663" y="3562"  width="953" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0028.png" x="5622" y="3571"  width="986" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0029.png" x="5622" y="3571"  width="986" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0030.png" x="4416" y="2822"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0031.png" x="4416" y="2822"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0032.png" x="4416" y="2822"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0033.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0034.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0035.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0036.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0037.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0038.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0039.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Shoot0040.png" x="5875" y="2829"  width="494" height="731" frameX="-64" frameY="-44" frameWidth="1050" frameHeight="775"/>
+  <SubTexture name="Up0000.png" x="2275" y="5802"  width="395" height="794" frameX="-20" frameY="-0" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0001.png" x="2275" y="5802"  width="395" height="794" frameX="-20" frameY="-0" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0002.png" x="1840" y="4255"  width="440" height="757" frameX="-9" frameY="-37" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0003.png" x="1840" y="4255"  width="440" height="757" frameX="-9" frameY="-37" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0004.png" x="3" y="4945"  width="455" height="749" frameX="-1" frameY="-45" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0005.png" x="3" y="4945"  width="455" height="749" frameX="-1" frameY="-45" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0006.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0007.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0008.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0009.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0010.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+  <SubTexture name="Up0011.png" x="7519" y="3577"  width="458" height="744" frameX="-0" frameY="-50" frameWidth="458" frameHeight="794"/>
+</TextureAtlas>

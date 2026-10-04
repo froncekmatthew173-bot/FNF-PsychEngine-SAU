@@ -1,0 +1,77 @@
+{
+    "image": "characters/saggy",
+    "scale": 1.0,
+    "sing_duration": 4.0,
+    "healthicon": "saggy",
+    "position": [
+        0.0,
+        0.0
+    ],
+    "camera_position": [
+        0.0,
+        0.0
+    ],
+    "flip_x": false,
+    "animations": [
+        {
+            "anim": "idle",
+            "name": "shaggy_idle",
+            "offsets": [
+                -5.0,
+                0.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singUP",
+            "name": "shaggy_up",
+            "offsets": [
+                -8.0,
+                22.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singLEFT",
+            "name": "shaggy_left",
+            "offsets": [
+                182.0,
+                -131.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singRIGHT",
+            "name": "shaggy_right",
+            "offsets": [
+                -13.0,
+                -39.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        },
+        {
+            "anim": "singDOWN",
+            "name": "shaggy_down",
+            "offsets": [
+                -18.0,
+                -176.0
+            ],
+            "fps": 24.0,
+            "loop": false,
+            "indices": []
+        }
+    ],
+    "healthbar_colors": [
+        0,
+        255,
+        0
+    ]
+}
